@@ -27,11 +27,11 @@
 
   You can add one or multiple of the prebuilt providers listed below:
 
-  * npm install -a @cdktf/provider-aws
-  * npm install -a @cdktf/provider-google
-  * npm install -a @cdktf/provider-azurerm
-  * npm install -a @cdktf/provider-docker
-  * npm install -a @cdktf/provider-github
-  * npm install -a @cdktf/provider-null
+    npm install -a @cdktf/provider-aws
+    npm install -a @cdktf/provider-google
+    npm install -a @cdktf/provider-azurerm
+    npm install -a @cdktf/provider-docker
+    npm install -a @cdktf/provider-github
+    npm install -a @cdktf/provider-null
 
   Check for an up to date list here https://github.com/terraform-cdk-providers
