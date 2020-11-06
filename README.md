@@ -1,6 +1,6 @@
 #  Quick Terraform CDK TypeScript  Proof of concept-project.
 It doesnt have much stuff in it, it was a quick PoC to just to get a quick taste of how 
-coding typescript with the new CDK is working, building terraform code and deploying.
+coding typescript with the new CDK is compiling, generating terraform code and deploying.
 
 My initial reaction was that it was in a early alpha-state.
 Many of the providers I use, like kubernetes, helm, kubernetes-alpha didnt work
