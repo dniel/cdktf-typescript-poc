@@ -19,7 +19,7 @@
     "node": ">=10.12"
   },
   "dependencies": {
-    "cdktf": "0.0.19",
+    "cdktf": "0.20.9",
     "constructs": "3.0.4"
   },
   "devDependencies": {
